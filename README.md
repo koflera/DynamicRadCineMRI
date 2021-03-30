@@ -20,7 +20,6 @@ Further, we provide an example of toy-data which can be used to get familiar wit
 - ktraj_320.npy:  -  a set of k-space trajectories chosen according to the golden-angle method
 - dcomp_320.npy:  -  the values of the density-compensation function to be used in the operator A^#
 - csmap_320.npy:  -  coil-sensitvity maps for 12 receiver coils to be used in the operators
-- 
 
 The image in the file img_320.npy was borrowed from http://www.cse.yorku.ca/~mridataset/.
 
