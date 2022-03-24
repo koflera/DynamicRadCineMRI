@@ -21,7 +21,7 @@ Further, we provide an example of toy-data which can be used to get familiar wit
 - dcomp_320.npy:  -  the values of the density-compensation function to be used in the operator A^#
 - csmap_320.npy:  -  coil-sensitvity maps for 12 receiver coils to be used in the operators
 
-The image in the file img_320.npy was borrowed from http://www.cse.yorku.ca/~mridataset/.
+The image in the file img_320.npy was borrowed from http://jtl.lassonde.yorku.ca/software/datasets/.
 
 >> N.B. For using this code, you have to use PyTorch version 1.6.0 as well as TorchKbNufft version 0.3.4 (https://github.com/mmuckley/torchkbnufft)
 
